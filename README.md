@@ -1,2 +1,2 @@
-# jas4118.github.io
+# SpaceGame
 SpaceGame creation for CISC 3630
